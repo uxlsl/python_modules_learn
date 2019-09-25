@@ -16,4 +16,3 @@ subprocess 让你可以调用新进程，并且连接input/out/err pipes,并且�
 + subprocess.call ~ run(…).returncode
 + subprocess.check_call ~ run(…, check=True)
 + subprocess.check_output ~ run(..., check=True, stdout=PIPE).stdout
-

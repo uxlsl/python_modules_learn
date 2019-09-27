@@ -6,3 +6,4 @@
 + [copy](./copy.md)
 + [contextlib](./contextlib.md)
 + [pathlib](./pathlib.md)
++ [webbrowser](./webbrowser.md)

@@ -6,4 +6,6 @@
 + [copy](./copy.md)
 + [contextlib](./contextlib.md)
 + [pathlib](./pathlib.md)
++ [pprint](./pprint.md)
 + [webbrowser](./webbrowser.md)
++ [doctest](./doctest.md)

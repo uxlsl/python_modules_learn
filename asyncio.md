@@ -33,8 +33,27 @@ await t2
 await t3
 
 ```
-实测要串在
 
+实测要串在一起,其他方法,使用asyncio.gather,使同时运行的任务同时调用
+
+```python
+    await asyncio.gather(
+        factorial("A", 2),
+        factorial("B", 3),
+        factorial("C", 4),
+    )
+
+```
+
+### 超时
+
+```python
+
+
+asyncio.wait_for
+
+
+```
 
 
 ## 总结

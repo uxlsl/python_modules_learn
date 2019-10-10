@@ -11,3 +11,5 @@
 + [webbrowser](./webbrowser.md)
 + [doctest](./doctest.md)
 + [json](./json.md)
++ [operator](./operator.md)
+

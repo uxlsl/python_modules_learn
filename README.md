@@ -15,3 +15,4 @@
 + [time](./time.md)
 + [io](./io.md)
 + [queue](./queue.md)
++ [collections](./collections.md)

@@ -1,6 +1,8 @@
 # collections 
 
++ ChainMap 快速从多个表进行查询
 + OrderedDict 
++ deque 提供双端队列进行操作
 
 
 
@@ -27,3 +29,9 @@ class LRU(OrderedDict):
             del self[oldest]
 
 ```
+
+
+## 总结
+
+ChainMap场景是有多个表，要查询.
+Counter场景是统计健出现的次数.

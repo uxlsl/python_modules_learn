@@ -16,3 +16,4 @@
 + [io](./io.md)
 + [queue](./queue.md)
 + [collections](./collections.md)
++ [itertools](./itertools.md)

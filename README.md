@@ -3,6 +3,7 @@
 + [asyncio](./asyncio.md)
 + [atexit](./atexit.md)
 + [base64](./base64.md)
++ [enum](./enum.md)
 + [subprocess](./subprocess.md)
 + [functools](./functools.md)
 + [dataclasses](./dataclasses.md)

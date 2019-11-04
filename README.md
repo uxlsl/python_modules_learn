@@ -1,6 +1,7 @@
 # 读python文档的记录
 
 + [asyncio](./asyncio.md)
++ [array](./array.md)
 + [atexit](./atexit.md)
 + [base64](./base64.md)
 + [enum](./enum.md)

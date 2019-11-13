@@ -26,3 +26,5 @@
 + [html](./html.md)
 + [concurrent.futures](./concurrent.futures.md)
 + [platform](./platform.md)
++ [heapq](./heapq.md)
+

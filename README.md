@@ -28,3 +28,4 @@
 + [platform](./platform.md)
 + [heapq](./heapq.md)
 + [ensurepip](./ensurepip.md)
++ [re](./re.md)

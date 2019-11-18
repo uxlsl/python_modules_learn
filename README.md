@@ -32,3 +32,4 @@
 + [shutil](./shutil.md)
 + [shelve](./shelve.md)
 + [ftplib](./ftplib.md)
++ [sqlite3](./sqlite3.md)

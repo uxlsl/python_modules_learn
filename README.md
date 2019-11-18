@@ -29,3 +29,6 @@
 + [heapq](./heapq.md)
 + [ensurepip](./ensurepip.md)
 + [re](./re.md)
++ [shutil](./shutil.md)
++ [shelve](./shelve.md)
++ [ftplib](./ftplib.md)

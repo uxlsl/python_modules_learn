@@ -36,3 +36,4 @@
 + [gzip](./gzip.md)
 + [decimal](./decimal.md)
 + [csv](./csv.md)
++ [cmd](./cmd.md)
